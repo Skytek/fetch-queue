@@ -4,17 +4,17 @@
   "description": "A queue system for fetch requests",
   "main": "index.js",
   "scripts": {},
-  "author": "Jeff Kramp",
+  "author": "Skytek",
   "license": "GPL-3.0",
   "dependencies": {},
   "devDependencies": {},
   "resolutions": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jkramp/fetch-queue.git"
+    "url": "git+https://github.com/Skytek/fetch-queue"
   },
   "bugs": {
-    "url": "https://github.com/jkramp/fetch-queue/issues"
+    "url": "https://github.com/Skytek/fetch-queue/issues"
   },
-  "homepage": "https://github.com/jkramp/fetch-queue#readme"
+  "homepage": "https://github.com/Skytek/fetch-queue#readme"
 }
